@@ -4,4 +4,5 @@
  basically just for fun
  
  ok, first edit, lets do something classic: "Hello World"
+ 
  and something fun: \o/
